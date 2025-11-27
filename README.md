@@ -1,5 +1,15 @@
 # Bradwelding
 
+This is a website for a welding company called Bradwelding. It has the following pages:
+
+* Home
+* About Us
+* Services
+* Testimonials
+* Contact Us
+
+The website is built with the Phoenix framework.
+
 To start your Phoenix server:
 
 * Run `mix setup` to install and setup dependencies
